@@ -1,7 +1,13 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1moYCma5OuNBQT7_fTu0B7l9o7BbOas8P" 
+       alt="Profile Banner" 
+       width="100%" />
+</p>
 # Hi 👋, I'm Sahishnu patil
 
+
 ### 🚀 About Me
-- 🎓 I am a student
+- 🎓 Cse student
 - 💻 I love programming
 - 🌱 Currently learning C / Python / Web Development
 - 🎯 Goal: Become a skilled software developer
