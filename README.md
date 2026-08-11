@@ -10,15 +10,15 @@
 - 🎓 Cse student
 - 💻 I love programming
 - 🌱 Currently learning C / Python / Web Development
-- 🎯 Goal: Become a skilled software developer
+- 🎯 Goal: Master on Codeforces
 
 ---
 
 ### 🛠️ Skills
-- 💻 Languages: C, Python, Java
-- 🌐 Web: HTML, CSS
+- 💻 Languages: C, Python, Java , c++ .
+- 🌐 Web: HTML, CSS , JavaScript , Angular JavaScript.
 - 🗄️ Database: MySQL
-- ⚙️ Tools: Git, VS Code
+- ⚙️ Tools: Git, VS Code ,
 
 ---
 
@@ -28,5 +28,5 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: (your link)
+- LinkedIn: (https://www.linkedin.com/in/sahishnu-patil-45ab3a2a9/)
 - Email: (sahishnuvpatil@gmail.com)
