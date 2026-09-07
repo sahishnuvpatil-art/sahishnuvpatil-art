@@ -4,16 +4,16 @@
 
 <br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sahishnuvpatil-art">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%F0%9F%92%BB;Competitive+Programming+%F0%9F%94%A5;DSA+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%9A%80;Building+things+that+actually+work." alt="Typing SVG"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sahishnuvpatil-art">
 <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github&color=181717"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sahishnuvpatil-art">
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=PROFILE+VIEWS&color=00F7FF"/>
 </a>
 
