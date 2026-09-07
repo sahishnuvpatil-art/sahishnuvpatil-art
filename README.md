@@ -265,11 +265,11 @@ Because apparently three projects are never enough.
 ## `> 2026 --goals`
 
 ```diff
-+ Master DSA
++ Improve DSA
 + Reach a strong competitive programming rating
 + Build production-level applications
 + Contribute to open source
-+ Secure a strong SWE internship
+
 + Keep shipping
 ```
 
