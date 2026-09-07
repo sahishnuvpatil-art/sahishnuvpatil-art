@@ -9,7 +9,6 @@
 ### 🚀 About Me
 - 🎓 Cse student
 - 💻 I love programming
-- 🌱 Currently learning C / Python / Web Development
 - 🎯 Goal: Master on Codeforces
 
 ---
@@ -28,5 +27,5 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/sahishnu-patil-45ab3a2a9/)
-- Email: (sahishnuvpatil@gmail.com)
+- LinkedIn:(https://www.linkedin.com/in/sahishnu-patil-45ab3a2a9/
+- Email: sahishnuvpatil@gmail.com
