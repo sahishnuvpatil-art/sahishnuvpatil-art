@@ -80,13 +80,13 @@ goal:
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,mongodb,mysql,postgres,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,mysql" />
 </p>
 
 ---
