@@ -43,19 +43,29 @@ goal:
 
 ## 🧠 Competitive Programming
 
+### 🔵 Codeforces
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sahishnuvpatil-art?theme=dark&font=baloo&ext=heatmap" />
+  <a href="https://codeforces.com/profile/sahishnu07">
+    <img src="https://img.shields.io/badge/Codeforces-sahishnu07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
 
-### Platforms
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sahishnu07&theme=github_dark" />
+</p>
 
-* 🟡 **LeetCode:** 115+ problems
-* 🔵 **Codeforces:** Competitive Programming
-* 🟢 **GeeksforGeeks:** DSA Practice
+### 🟡 LeetCode
 
-Currently focusing on:
+<p align="center">
+  <a href="https://leetcode.com/u/sahishnu_07/">
+    <img src="https://img.shields.io/badge/LeetCode-sahishnu__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-`Arrays` • `Strings` • `Binary Search` • `Two Pointers` • `Recursion` • `Trees` • `Graphs` • `Dynamic Programming`
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sahishnu_07?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 ---
 
@@ -135,7 +145,7 @@ Simulation of network-layer routing algorithms and packet forwarding.
 ## 📚 Currently Learning
 
 ```text
-DSA                    ███████████████░░░  80%
+DSA                     ███████████████░░░  80%
 Competitive Programming ████████████░░░░░░  65%
 Java                    ███████████████░░░  80%
 Full Stack              ██████████░░░░░░░░  55%
@@ -169,6 +179,15 @@ System Design           ██████░░░░░░░░░░░░  
   <a href="https://github.com/sahishnuvpatil-art">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://codeforces.com/profile/sahishnu07">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/sahishnu_07/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
